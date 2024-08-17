@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @lazaroah02, I'm studing computer engineering and programming since two years.
-- 👀 I’m interested in get a job like junior software developer
-- 🌱 I’m currently learning back-end web development whit django a framework of python , i have skills on python desktop apps with tkinter, and java desktop app, i know connections whit database mysql and sqlite3
+If you can imagine it, you can program it. That phrase changed my life.
+- 👋 Hi, I’m @lazaroah02, I'm web full stack developer, who studied computing engineering.
+- 👀 Love building products, passionate about challenges, interested in growth.
+- 🌱 We have the responsability to build the future with our code.
 - 💞️ I’m looking to collaborate whit others and make projects to get more experience.
-- 📫 How to reach me : lazaroah02@gmail.com
+- 📫 How to reach me : lazaroaltedill@gmail.com
 
 <!---
 lazaroah02/lazaroah02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
