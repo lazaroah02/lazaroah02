@@ -3,21 +3,35 @@ name: Deploy Astro Site
 on:
   push:
     branches:
-      - main  # Adjust this to your default branch if it's different
+      - main  # Asegúrate de que esta sea tu rama principal
   pull_request:
     branches:
       - main
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code
+    - name: Checkout repository
       uses: actions/checkout@v3
+      with:
+        repository: lazaroah02/lazaro_altedill_portfolio  # Repositorio específico
+        ref: main  # Rama desde la cual deseas desplegar
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '16'  # Ajusta según la versión de Node.js que uses
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Build Astro site
+      run: npm run build
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./lazaroah02
+        publish_dir: ./dist
