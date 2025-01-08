@@ -22,7 +22,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📫 Contact Me
 - **Email**: lazaroaltedill@gmail.com
-- **LinkedIn**: <a href = "https://linkedin.com/in/lazaro-altedill-546453231" target="_blank">Lazaro Altedill</a>
+- **LinkedIn**: <a href="https://linkedin.com/in/lazaro-altedill-546453231" target="_blank" rel="noopener noreferrer">Lazaro Altedill</a>
 
 ---
 
