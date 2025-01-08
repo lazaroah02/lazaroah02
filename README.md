@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Lazaro Altedill
 
-**Full Stack Web Developer**
+**Full Stack Developer**
 
 "If you can imagine it, you can program it." This phrase changed my life. I'm a web full stack developer with a background in computing engineering. I love building products, I'm passionate about challenges, and I'm always interested in growth. We have the responsibility to build the future with our code.
 
