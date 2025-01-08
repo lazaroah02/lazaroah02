@@ -1,11 +1,29 @@
-If you can imagine it, you can program it. That phrase changed my life.
-- 👋 Hi, I’m @lazaroah02, I'm web full stack developer, who studied computing engineering.
-- 👀 Love building products, passionate about challenges, interested in growth.
-- 🌱 We have the responsability to build the future with our code.
-- 💞️ I’m looking to collaborate whit others and make projects to get more experience.
-- 📫 How to reach me : lazaroaltedill@gmail.com
+# Hi there 👋, I'm Lazaro Altedill
 
-<!---
-lazaroah02/lazaroah02 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Full Stack Web Developer**
+
+"If you can imagine it, you can program it." This phrase changed my life. I'm a web full stack developer with a background in computing engineering. I love building products, I'm passionate about challenges, and I'm always interested in growth. We have the responsibility to build the future with our code.
+
+## 🌟 Skills
+Here are some of the technologies and tools I work with:
+
+- **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Vue, Astro
+- **Backend**: Python, Django + Rest Framework, GraphQL
+- **Other Tools**: Git + GitHub, Docker, SQL, Scraping
+
+## 🎓 Education
+
+- **Holguín University, Cuba (2021-2024)**  
+  Computing Engineering
+- **Autodidact**  
+  Most of my programming skills have been self-taught.
+- **Platzi**  
+  I constantly take courses on Platzi to increase my skills. 
+
+## 📫 Contact Me
+- **Email**: lazaroaltedill@gmail.com
+- **LinkedIn**: [Lazaro Altedill](https://linkedin.com/in/lazaro-altedill-546453231)
+
+---
+
+*Build the Future with your code*
