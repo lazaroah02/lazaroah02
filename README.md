@@ -2,14 +2,14 @@
 
 **Full Stack Developer**
 
-"If you can imagine it, you can program it." This phrase changed my life. I'm a web full stack developer with a background in computing engineering. I love building products, I'm passionate about challenges, and I'm always interested in growth. We have the responsibility to build the future with our code.
+Over 2 years of experience as a Full Stack React/Django Software Developer. My specialty is building web applications, but I have built all types of software: scraping, mobile applications, desktop applications, games, because I love building software products. We have the responsibility to build the future with our code.
 
 ## 🌟 Skills
 Here are some of the technologies and tools I work with:
 
 - **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Vue, Astro
 - **Backend**: Python, Django + Rest Framework, GraphQL
-- **Other Tools**: Git + GitHub, Docker, SQL, Scraping
+- **Other Tools**: Git + GitHub, Docker, SQL, Scraping, Selenium
 
 ## 🎓 Education
 
@@ -22,7 +22,7 @@ Here are some of the technologies and tools I work with:
 
 ## 📫 Contact Me
 - **Email**: lazaroaltedill@gmail.com
-- **LinkedIn**: <a href="https://linkedin.com/in/lazaro-altedill-546453231" target="_blank" rel="noopener noreferrer">Lazaro Altedill</a>
+- **LinkedIn**: <a href="https://linkedin.com/in/lazaro-altedill target="_blank" rel="noopener noreferrer">Lazaro Altedill</a>
 
 ---
 
