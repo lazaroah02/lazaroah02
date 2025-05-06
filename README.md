@@ -9,7 +9,7 @@ Here are some of the technologies and tools I work with:
 
 - **Frontend**: HTML, CSS, JavaScript, TypeScript, React, Vue, Astro
 - **Backend**: Python, Django + Rest Framework, GraphQL
-- **Other Tools**: Git + GitHub, Docker, SQL, Scraping, Selenium
+- **Other Tools**: Git + GitHub, Docker, SQL, Scraping, Selenium, n8n, AI Agents
 
 ## 🎓 Education
 
