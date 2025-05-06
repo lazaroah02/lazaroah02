@@ -1,8 +1,8 @@
 # Hi there 👋, I'm Lazaro Altedill
 
-**Full Stack Developer**
+**End-to-End Developer**
 
-Over 2 years of experience as a Full Stack React/Django Software Developer. My specialty is building web applications, but I have built all types of software: scraping, mobile applications, desktop applications, games, because I love building software products. We have the responsibility to build the future with our code.
+End-to-End Developer with over 3 years of experience. My specialty is building full-stack web applications with React and Django, but I have built all kinds of software: AI Agents, workflows with n8n, scraping tools, mobile apps, desktop applications, and games because I love creating software products. We have the responsibility to build the future with our code.
 
 ## 🌟 Skills
 Here are some of the technologies and tools I work with:
