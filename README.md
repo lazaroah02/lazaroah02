@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Lazaro Altedill
 
-**Freelance Full Stack Developer with over 3 years of experience.**
+**Freelance Full Stack Developer with over 4 years of experience.**
 
 I'm specialized in building full-stack web applications with React and Django, but I’ve worked across many types of software: AI agents, workflows with n8n, web scraping, Python scripts, mobile applications with React Native, and more. Building software products and understanding technology are two of my bigest passions.
 
